@@ -10,11 +10,11 @@ After you push your changes to Heroku,  use app URL to setup webhooks on Faceboo
 
 ## REQUIREMENTS
 
-*Flask==0.11.1
-*gunicorn==19.6.0
-*itsdangerous==0.24
-*Jinja2==2.8
-*MarkupSafe==0.23
-*virtualenv==15.0.1
-*requests==2.11.1
-*Werkzeug==0.11.10
+1. Flask==0.11.1
+2. gunicorn==19.6.0
+3. itsdangerous==0.24
+4. Jinja2==2.8
+5. MarkupSafe==0.23
+6. virtualenv==15.0.1
+7. requests==2.11.1
+8. Werkzeug==0.11.10
